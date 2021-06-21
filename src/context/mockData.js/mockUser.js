@@ -1,0 +1,38 @@
+export default {
+  login: 'shahnewaztameem',
+  id: 19238216,
+  node_id: 'MDQ6VXNlcjE5MjM4MjE2',
+  avatar_url: 'https://avatars.githubusercontent.com/u/19238216?v=4',
+  gravatar_id: '',
+  url: 'https://api.github.com/users/shahnewaztameem',
+  html_url: 'https://github.com/shahnewaztameem',
+  followers_url: 'https://api.github.com/users/shahnewaztameem/followers',
+  following_url:
+    'https://api.github.com/users/shahnewaztameem/following{/other_user}',
+  gists_url: 'https://api.github.com/users/shahnewaztameem/gists{/gist_id}',
+  starred_url:
+    'https://api.github.com/users/shahnewaztameem/starred{/owner}{/repo}',
+  subscriptions_url:
+    'https://api.github.com/users/shahnewaztameem/subscriptions',
+  organizations_url: 'https://api.github.com/users/shahnewaztameem/orgs',
+  repos_url: 'https://api.github.com/users/shahnewaztameem/repos',
+  events_url: 'https://api.github.com/users/shahnewaztameem/events{/privacy}',
+  received_events_url:
+    'https://api.github.com/users/shahnewaztameem/received_events',
+  type: 'User',
+  site_admin: false,
+  name: 'Shahnewaz Tameem',
+  company: 'TiGrow Ltd.',
+  blog: 'https://shahnewaztameem.netlify.app/',
+  location: 'Dhaka, Bangladesh',
+  email: null,
+  hireable: true,
+  bio: 'Without requirements or design, programming is the art of adding bugs to an empty text file.',
+  twitter_username: null,
+  public_repos: 85,
+  public_gists: 0,
+  followers: 444,
+  following: 737,
+  created_at: '2016-05-07T11:51:23Z',
+  updated_at: '2021-05-31T13:59:29Z',
+}
